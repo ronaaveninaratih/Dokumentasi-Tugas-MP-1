@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Tarofurniture</string>
+    <string name="nama">Name</string>
+    <string name="back">Back</string>
+    <string name="email">E-mail</string>
+    <string name="age">Age</string>
 </resources>

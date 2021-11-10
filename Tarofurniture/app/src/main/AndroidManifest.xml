@@ -10,6 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Taropedia">
         <activity
+            android:name=".ResultActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ParcelActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ExplicitIntentActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SimpleActivity"
+            android:exported="true" />
+        <activity
+            android:name=".DetailActivity"
+            android:exported="true" />
+        <activity
             android:name=".MoveActivity"
             android:exported="true" />
         <activity
